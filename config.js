@@ -8,8 +8,8 @@ const CONFIG = {
     btnNo: 'Iu em 😘',
     question:'Điều ước tuổi mớiiii',
     btnReply: 'Gửi cho bà tiên <3',
-    reply: '19 tủi rùiiii ',
-    mess: 'Chúc hoàn thành nka',
+    reply: 'Sẽ hạnh phúc ',
+    mess: 'Phải làm được đóoo',
     messDesc: 'Tuổi mới phải thật hạnh phúc nhé',
     btnAccept: 'Hứaaaaa',
     messLink: 'https://www.facebook.com/lnhianh' //link mess của các bạn. VD: https://m.me/nam.nodemy
